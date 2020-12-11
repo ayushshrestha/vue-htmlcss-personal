@@ -1,7 +1,7 @@
 <template>
   <div>
   <!-- Small Devices Header  ============================================= -->
-      <div class="dtr-responsive-header fixed-top d-none">
+      <div class="dtr-responsive-header fixed-top">
           <div class="container"> 
               
               <!-- small devices logo --> 

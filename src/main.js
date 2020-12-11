@@ -28,7 +28,7 @@ new Vue({
 
 import "./assets/css/bootstrap.min.css";
 import "./assets/fonts/iconfonts.css";
-// import "./assets/css/plugins.css"; 
+import "./assets/css/plugins.css"; 
 import "./assets/css/style.css"; 
 import "./assets/css/responsive.css";
 import "./assets/css/color.css";
